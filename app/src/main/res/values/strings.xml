@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Anwar_Ahmed_S2534054</string>
+    <string name="title_main">Scotland Traffic &amp; Roadworks</string>
+    <string name="title_detail">Situation details</string>
+    <string name="acknowledgement">Contains Traffic Scotland data</string>
+
+    <string name="action_refresh">Refresh</string>
+    <string name="nav_list">List</string>
+    <string name="nav_map">Map</string>
+
+    <string name="filter_all">All</string>
+    <string name="filter_roadworks">Roadworks</string>
+    <string name="filter_incidents">Incidents</string>
+    <string name="search_road_hint">Search road, e.g. M8</string>
+
+    <string name="legend_title">Roadworks duration:</string>
+    <string name="empty_list">No situations match your search.</string>
+    <string name="loading">Downloading live data…</string>
+
+    <string name="location_user_name">Glasgow Caledonian University</string>
+
+    <string-array name="distance_options">
+        <item>Any distance</item>
+        <item>Within 10 km</item>
+        <item>Within 20 km</item>
+        <item>Within 50 km</item>
+        <item>Within 100 km</item>
+    </string-array>
+</resources>

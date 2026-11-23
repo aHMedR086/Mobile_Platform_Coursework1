@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="type_roadworks">#FFE65100</color>
+    <color name="type_closure">#FFC62828</color>
+    <color name="type_lanes">#FF6A1B9A</color>
+    <color name="type_traffic">#FF1565C0</color>
+    <color name="type_obstruction">#FF1E88E5</color>
+    <color name="type_incident">#FF546E7A</color>
+
+    <color name="duration_short">#FF2E7D32</color>
+    <color name="duration_medium">#FFF9A825</color>
+    <color name="duration_long">#FFC62828</color>
+    <color name="duration_unknown">#FF757575</color>
+
+    <color name="reference_location">#FF1E88E5</color>
+    <color name="reference_radius_fill">#221E88E5</color>
+</resources>
